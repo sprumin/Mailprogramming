@@ -8,5 +8,5 @@
 
 
 ### 문제
-1. [2019-04-15.py](https://github.com/sprumin/Mailprogramming/2019-04-15.py)
-- "./"과 "../" 이 포함된 파일 경로를 "./"과 "../"이 없는 유닉스 파일 경로로 바꾸시오.
+1. [2019-04-15.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-15.py)
+    - "./"과 "../" 이 포함된 파일 경로를 "./"과 "../"이 없는 유닉스 파일 경로로 바꾸시오.
