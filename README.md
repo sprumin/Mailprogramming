@@ -1,2 +1,7 @@
 # mailprogramming
-Mailprogramming Coding Test
+매주 월요일 아침에 코딩테스트 문제와 풀이를 보내주는 "매일프로그래밍" 문제 풀기
+
+### 매일프로그래밍 하는 방법
+- [매일프로그래밍](https://mailprogramming.com/) 사이트에 접속
+- 코딩테스트 문제를 받을 메일을 입력하고 구독하기 버튼 누르기
+- 매주 월요일 마다 문제를 받아보면 된다
