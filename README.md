@@ -18,3 +18,6 @@
     - 정렬(sort)된 정수 배열과 정수 n이 주어지면, 배열안에 n이 있는지 체크하시오.
 3. [2019-04-17.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-17.py)
     - 명령어를 입력받아 stack 기능을 수행하시오.
+4. [2019-04-17_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-17_2.py)
+    - 입력으로 주어진 괄호 문자열이 VPS 인지 아닌지를 판단해서 그 결과를 YES 와 NO 로 나타내어야 한다.
+    - VPS 란 괄호가 쌍을 이룰수있는 문자열을 말합니다 ex) "(())()", "()()()", "(((())))"
