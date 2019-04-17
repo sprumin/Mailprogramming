@@ -14,5 +14,7 @@
 ### 문제
 1. [2019-04-15.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-15.py)
     - "./"과 "../" 이 포함된 파일 경로를 "./"과 "../"이 없는 유닉스 파일 경로로 바꾸시오.
-1. [2019-04-15_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-03-18.py)
+2. [2019-04-15_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-15_2.py)
     - 정렬(sort)된 정수 배열과 정수 n이 주어지면, 배열안에 n이 있는지 체크하시오.
+3. [2019-04-17.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-17.py)
+    - 명령어를 입력받아 stack 기능을 수행하시오.
