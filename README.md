@@ -7,6 +7,9 @@
 - 코딩테스트 문제를 받을 메일을 입력하고 구독하기 버튼 누르기
 - 매주 월요일 마다 문제를 받아보면 된다
 
+### 알고리즘 문제
+- 대부분 [백준](https://www.acmicpc.net/) 에 있는 문제들을 사용합니다.
+
 
 ### 문제
 1. [2019-04-15.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-15.py)
