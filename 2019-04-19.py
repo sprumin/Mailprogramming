@@ -4,13 +4,16 @@
 
 
 def peoples(floor, room):
-    apart = [[i for i in range(1, room + 1)]]
+    apart = [list() for i in range(floor + 1)]
+    apart[0] = [i for i in range(1, room + 1)]
 
-    for i in range(floor):
+    for i in range(1, floor + 1):
         for j in range(room):
             count = 0
             for k in range(j + 1):
-                apart[i][j]
+                count += apart[i - 1][k]
+
+            apart[i].append(count)
 
     print(apart[floor][room - 1])
 
