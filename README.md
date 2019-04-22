@@ -24,5 +24,11 @@
 5. [2019-04-18.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-18.py)
     - 문자열을 입력받아 그룹 단어인지 아닌지 체크하시오.
     - 그룹단어란 중복된 단어가 연속되어있는 단어를 말한다.
-6. [2019-04-22.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-22.py)
+6. [2019-04-18.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-19.py)
+    - a,b 를 입력받아 a 층 b 호에 사는 인원이 몇명인지 구하세요.
+    - 아파트 거주조건
+        1. 0층의 i호에는 i명이 산다.
+        2. a 층 b 호에 거주하려면 a - 1 층의 1호부터 b 호까지 사람들의 수의 합만큼 거주해야한다.
+        3. 비어있는 집은 없으며 모두가 이 조건을 지키고 있다.
+7. [2019-04-22.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-22.py)
     - 주어진 리스트에서 조합할 수 없는 숫자 중 가장 작은 양의 정수를 찾으세요.
