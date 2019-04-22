@@ -24,3 +24,5 @@
 5. [2019-04-18.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-18.py)
     - 문자열을 입력받아 그룹 단어인지 아닌지 체크하시오.
     - 그룹단어란 중복된 단어가 연속되어있는 단어를 말한다.
+6. [2019-04-22.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-22.py)
+    - 주어진 리스트에서 조합할 수 없는 숫자 중 가장 작은 양의 정수를 찾으세요.
