@@ -24,7 +24,7 @@
 5. [2019-04-18.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-18.py)
     - 문자열을 입력받아 그룹 단어인지 아닌지 체크하시오.
     - 그룹단어란 중복된 단어가 연속되어있는 단어를 말한다.
-6. [2019-04-18.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-19.py)
+6. [2019-04-19.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-19.py)
     - a,b 를 입력받아 a 층 b 호에 사는 인원이 몇명인지 구하세요.
     - 아파트 거주조건
         1. 0층의 i호에는 i명이 산다.
@@ -32,3 +32,7 @@
         3. 비어있는 집은 없으며 모두가 이 조건을 지키고 있다.
 7. [2019-04-22.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-22.py)
     - 주어진 리스트에서 조합할 수 없는 숫자 중 가장 작은 양의 정수를 찾으세요.
+8. [2019-04-22_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-22_2.py)
+    - A, B를 입력받아 A이상 B이하의 숫자들 중 완전 제곱수인것을 찾아 완전제곱수의 합과 최솟값을 출력하세요.
+    - 완전제곱수가 없을 경우 -1 을 출력하세요.
+    - 완전제곱수 : 어떤수를 제곱했을때 나오는 숫자
