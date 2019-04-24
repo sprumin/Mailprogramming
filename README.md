@@ -38,3 +38,5 @@
     - 완전제곱수 : 어떤수를 제곱했을때 나오는 숫자
 9. [2019-04-23.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-23.py)
     - N 번째 피보나치 수를 출력하시오.
+10. [2019-04-24.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-24.py)
+    - 정수 N 을 입력받아 소인수분해 결과를 한 줄에 하나씩 오름차순으로 출력하시오.
