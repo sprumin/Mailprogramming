@@ -40,3 +40,5 @@
     - N 번째 피보나치 수를 출력하시오.
 10. [2019-04-24.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-24.py)
     - 정수 N 을 입력받아 소인수분해 결과를 한 줄에 하나씩 오름차순으로 출력하시오.
+11. [2019-04-24_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-24_2.py)
+    - 5줄로 이루어진 단어들을 세로로 읽었을때 결과를 출력하시오.
