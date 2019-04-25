@@ -42,3 +42,6 @@
     - 정수 N 을 입력받아 소인수분해 결과를 한 줄에 하나씩 오름차순으로 출력하시오.
 11. [2019-04-24_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-24_2.py)
     - 5줄로 이루어진 단어들을 세로로 읽었을때 결과를 출력하시오.
+12. [2019-04-25.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-25.py)
+    - 문자열을 입력받아 가장 많이 포함되어있는 알파벳을 출력하시오.
+    - 여러개라면 알파벳 순서대로 출력하시오.
