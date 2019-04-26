@@ -45,3 +45,6 @@
 12. [2019-04-25.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-25.py)
     - 문자열을 입력받아 가장 많이 포함되어있는 알파벳을 출력하시오.
     - 여러개라면 알파벳 순서대로 출력하시오.
+13. [2019-04-26.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-26.py)
+    - 세 개의 컵이있고 1번째 컵에 공이 들어가있다.
+    - x, y를 m번 입력받아 x, y번째 컵의 위치를 바꾸었을때 최종적으로 공의 위치를 출력하시오.  

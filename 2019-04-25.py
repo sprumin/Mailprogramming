@@ -1,3 +1,6 @@
+# 문자열을 입력받아 가장 많이 포함되어있는 알파벳을 출력하시오.
+# 여러개일 경우 알파벳 순서대로 출력하시오.
+
 from string import ascii_lowercase
 
 import sys
