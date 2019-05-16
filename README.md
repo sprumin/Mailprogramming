@@ -57,7 +57,15 @@
     - 문서갯수, 찾고자하는 문서의 위치, 각 문서의 중요도를 입력받아 찾고자하는 문서가 몇번째로 출력되는지 출력하시오.
 15. [2019-04-30.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-04-30.py)
     - 구명보트에 탑승할 사람들의 몸무게와 구명보트의 무게 한계치가 주어졌을때 몇대의 보트가 있어야 모든 사람을 옮길 수 있는지 출력하시오.
-15. [2019-05-13.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-05-13.py)
+16. [2019-05-13.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-05-13.py)
     - num_list 와 commands 가 입력받았을 때 결과값을 출력하세요.
     - commands 는 여러개의 리스트로 이루어져있고 리스트에는 시작,끝,찾고자하는 숫자위치 가 담겨있습니다.
     - num_list 를 시작,끝 으로 slice 하고 정렬한 뒤 숫자위치를 리스트에 담아 출력하세요.
+17. [2019-05-16.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-05-16.py)
+    - 단어가 주어지면 가운데 글자를 리턴하세요
+    - 단어의 길이가 짝수라면 가운데 두글자를 리턴하세요.
+18. [2019-05-16_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-05-16_2.py)
+    - 2016년 A월 B일의 요일을 리턴하세요.
+    - 2016년은 윤년입니다. ( 2월이 29일까지 존재합니다 )
+    - 2016년 1월 1일은 금요일입니다.
+    - 요일 리턴방식 MON, TUE, WED, THU, FRI, SAT, SUN
