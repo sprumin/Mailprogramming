@@ -6,6 +6,11 @@ def take_a_class(n, lost, reserve):
     students = [i for i in range(1, n + 1)]
 
     for student in lost:
+        if student in reserve:
+            reserve.remove(student)
+            lost.remove(student)
+
+    for student in lost:
         if student - 1 in reserve:
             reserve.remove(student - 1)
         elif student + 1 in reserve:
@@ -18,8 +23,8 @@ def take_a_class(n, lost, reserve):
 
 def main():
     students_count = int(input())
-    lost_students = list(map(int, input().split()))
-    reserve_students = list(map(int, input().split()))
+    lost_students = sorted(list(map(int, input().split())))
+    reserve_students = sorted(list(map(int, input().split())))
 
     print(take_a_class(students_count, lost_students, reserve_students))
 
