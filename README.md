@@ -92,9 +92,12 @@
     - skill_trees 는 문자열들이 담긴 리스트입니다. 각 스킬트리를 검사하여 이와같이 선행스킬의 순서를 잘 지키며 찍은 스킬트리가 몇개인지 리턴하면됩니다.
 24. [2019-06-17.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-06-17.py)
     - 숫자 n 을 입력받아 n 이 4의 거듭제곱인지 확인하세요.
-23. [2019-06-17_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-06-17_2.py)
+25. [2019-06-17_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-06-17_2.py)
     - 수평 직선에 탑 N대를 세웠습니다.
     - 신호를 주고 받을 수 있는데 발사한 신호는 신호를 보낸 탑보다 더 높은 탑에서만 수신합니다.
     - 한번 수신된 신호는 다른 탑으로 송신되지 않습니다.
     - 다섯 탑이 왼쪽으로 동시에 신호를 발사할 때 각 신호는 몇번째 탑에서 수신하는지 리스트에 담아 리턴하세요.
     - 더 높은 탑이 없어 수신이 불가능할 경우 0 을 담습니다.
+26. [2019-06-23.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-06-23.py)
+    - 숫자를 n을 입력받아 그 숫자가 어떤 수 x의 제곱근이 맞는지 아닌지를 판단하려합니다.
+    - 맞다면 x + 1 의 제곱을 리턴하고 아니라면 -1 을 리턴하세요
