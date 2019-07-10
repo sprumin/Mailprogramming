@@ -132,3 +132,19 @@
 32. [2019-07-09_4.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-07-09_4.py)
     - M, N을 입력받아 M이상 N이하의 숫자 중 소수를 찾으세요.
     - 그 소수들의 합을 첫번째 줄에 출력하고, 가장 작은 값을 두번째 줄에 출력하세요.
+33. [2019-07-10.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-07-10.py)
+    - 점의 갯수 N 을 입력받고, N 만큼 점의 위치 x, y 를 입력받는다.
+    - 좌표를 x좌표 기준으로 오름차순 정렬한다.
+    - x 좌표가 같을경우 y좌표기준으로 오름차순 정렬한다.
+34. [2019-07-10_2.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-07-10_2.py)
+    - 점의 갯수 N 을 입력받고, N 만큼 점의 위치 x, y 를 입력받는다.
+    - 좌표를 y좌표 기준으로 오름차순 정렬한다.
+    - y 좌표가 같을경우 x좌표기준으로 오름차순 정렬한다.
+35. [2019-07-10_3.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-07-10_3.py)
+    - 단어의 갯수 N 을 입력받고, N 만큼 단어를 입력받는다.
+    - 단어의 길이가 짧은순으로 오름차순 정렬한다.
+    - 단어의 길이가 같을경우 사전순으로 정렬한다.
+36. [2019-07-10_4.py](https://github.com/sprumin/Mailprogramming/blob/master/2019-07-10_4.py)
+    - 유저의 수 N 을 입력받고, N 만큼 유저의 나이와 유저이름을 입력받는다.
+    - 유저 나이순으로 오름차순 정렬한다.
+    - 유저 나이가 같을경우 등록한 순서로 정렬한다.
