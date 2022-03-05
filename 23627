@@ -1,0 +1,6 @@
+t = input()
+
+if t.endswith("driip"):
+    print("cute")
+else:
+    print("not cute")
