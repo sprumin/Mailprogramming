@@ -1,0 +1,27 @@
+t = int(input())
+
+result = {}
+reward = 0
+
+for _ in range(t):
+    ts = input().split()
+    order = 0
+    result[order] = {}
+
+    for row in ts:
+        if row in result[order].keys():
+            result[order] += 1
+        else:
+            result[order] = 1
+    
+    max_order = max(result[order].keys(), key=lambda k : result[order][k])
+    max_order_value = result[order][max_order]
+
+    if max_order_value == 3:
+        reward = 10000 + (many_num * 1000)
+    elif max_order_value == 2:
+        reward = 1000 + (many_num * 100)
+    elif max_order_value == 1:
+        reward = max(result[order].keys()) * 100
+
+    print(reward)
