@@ -149,3 +149,5 @@
     - 유저의 수 N 을 입력받고, N 만큼 유저의 나이와 유저이름을 입력받는다.
     - 유저 나이순으로 오름차순 정렬한다.
     - 유저 나이가 같을경우 등록한 순서로 정렬한다.
+37. [23627.py](https://github.com/sprumin/Mailprogramming/blob/master/23627.py)
+    - driip 이라는 문자열로 끝나는 문자열은 cute, 그렇지 않을경우 not cute 출력
