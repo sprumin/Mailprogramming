@@ -151,3 +151,7 @@
     - 유저 나이가 같을경우 등록한 순서로 정렬한다.
 37. [23627.py](https://github.com/sprumin/Mailprogramming/blob/master/23627.py)
     - driip 이라는 문자열로 끝나는 문자열은 cute, 그렇지 않을경우 not cute 출력
+38. [18108.py](https://github.com/sprumin/Mailprogramming/blob/master/18108.py)
+    - 불기연도를 기준으로 서기연도를 구하기
+39. [14781.py](https://github.com/sprumin/Mailprogramming/blob/master/14681.py)
+    - 좌표가 주어지면 몇 사분면에 있는지 구하기
