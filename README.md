@@ -155,3 +155,5 @@
     - 불기연도를 기준으로 서기연도를 구하기
 39. [14781.py](https://github.com/sprumin/Mailprogramming/blob/master/14681.py)
     - 좌표가 주어지면 몇 사분면에 있는지 구하기
+40. [2480.py](https://github.com/sprumin/Mailprogramming/blob/master/2480.py)
+    - 주사위 3개의 눈금을 비교하여 원하는 값 
