@@ -162,3 +162,5 @@
     - 좌표가 주어지면 몇 사분면에 있는지 구하기
 40. [2480.py](https://github.com/sprumin/Mailprogramming/blob/master/2480.py)
     - 주사위 3개의 눈금을 비교하여 원하는 값 
+40. [2443.py](https://github.com/sprumin/Mailprogramming/blob/master/2443.py)
+    - 별찍기 6
